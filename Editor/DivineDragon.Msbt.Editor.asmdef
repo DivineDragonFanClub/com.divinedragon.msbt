@@ -1,0 +1,20 @@
+{
+    "name": "DivineDragon.Msbt.Editor",
+    "rootNamespace": "DivineDragon.Msbt.Editor",
+    "references": [
+        "DivineDragon.Msbt",
+        "Dragonstone",
+        "DivineDumper"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

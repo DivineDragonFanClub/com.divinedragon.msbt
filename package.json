@@ -1,0 +1,11 @@
+{
+  "name": "com.divinedragon.msbt",
+  "displayName": "Divine MSBT",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "MSBT message file parser and editor for Fire Emblem Engage.",
+  "dependencies": {
+    "com.divinedragon.core": "1.0.0",
+    "com.divinedragon.dumper": "1.0.0"
+  }
+}
