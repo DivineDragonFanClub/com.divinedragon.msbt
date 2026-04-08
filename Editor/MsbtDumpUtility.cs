@@ -16,13 +16,13 @@ namespace DivineDragon.Msbt.Editor
 
         // Japanese
         public static string JapaneseMessageBundlePath => MessageRoot + "/jp/jpja";
-        public static string JapaneseExtractedPath => "Assets/Share/Message/jp/jpja";
-        public static string JapaneseDumpedPath => "Assets/Share/Message/jp/jpja_scripts";
+        public static string JapaneseExtractedPath => "Assets/Share/Addressables/Message/JP/JPja";
+        public static string JapaneseDumpedPath => "Assets/Share/Addressables/Message/JP/JPja_scripts";
 
         // English (US)
         public static string EnglishMessageBundlePath => MessageRoot + "/us/usen";
-        public static string EnglishExtractedPath => "Assets/Share/Message/us/usen";
-        public static string EnglishDumpedPath => "Assets/Share/Message/us/usen_scripts";
+        public static string EnglishExtractedPath => "Assets/Share/Addressables/Message/US/USen";
+        public static string EnglishDumpedPath => "Assets/Share/Addressables/Message/US/USen_scripts";
 
         public static bool IsConfigured => !string.IsNullOrEmpty(GameBuildPath);
     }
